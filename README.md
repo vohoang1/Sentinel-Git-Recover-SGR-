@@ -240,7 +240,6 @@ MIT License
 ## Author
 
 Vo Dinh Hoang
-Thủ Đức College of Technology
 
 ---
 
